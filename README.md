@@ -1,5 +1,4 @@
 
-# hard work website is buzy
 <!DOCTYPE html>
 <html lang="en">
 <head>
